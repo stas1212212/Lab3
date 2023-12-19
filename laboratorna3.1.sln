@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laboratorna3.1", "laboratorna3.1\laboratorna3.1.csproj", "{A2A90786-50F7-4DFC-A524-93D02FB6AFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laboratorna3.2", "laboratorna3.2\laboratorna3.2.csproj", "{DD4AE238-339D-4C0B-8F5F-58EEEAEC6752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A90786-50F7-4DFC-A524-93D02FB6AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A90786-50F7-4DFC-A524-93D02FB6AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A90786-50F7-4DFC-A524-93D02FB6AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A90786-50F7-4DFC-A524-93D02FB6AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4AE238-339D-4C0B-8F5F-58EEEAEC6752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4AE238-339D-4C0B-8F5F-58EEEAEC6752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4AE238-339D-4C0B-8F5F-58EEEAEC6752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4AE238-339D-4C0B-8F5F-58EEEAEC6752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF8115E9-C6FA-40C6-8192-B87BBD5E8C47}
+	EndGlobalSection
+EndGlobal
